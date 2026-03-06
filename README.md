@@ -75,8 +75,8 @@ npm install
 PORT=5000
 DB_HOST=localhost
 DB_USER=postgres
-DB_PASSWORD=6666
-DB_NAME=taskmaster
+DB_PASSWORD=your_password
+DB_NAME=assignment2
 DB_DIALECT=postgres
 ```
 
