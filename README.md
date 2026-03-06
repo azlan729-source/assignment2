@@ -51,7 +51,7 @@ assignment2/
 │
 ├── app.js
 ├── server.js
-├── .env
+├── .env (create manually)
 └── package.json
 ```
 
