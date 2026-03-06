@@ -61,8 +61,8 @@ assignment-2/
 
 ### 1. Clone the Repository
 ```
-git clone <your-repo-link>
-cd assignment-2
+git clone https://github.com/azlan729-source/assignment2.git
+cd assignment2
 ```
 
 ### 2. Install dependencies
