@@ -110,10 +110,10 @@ GET `/users`
 GET `/users/:id`
 
 #### Update user
-PUT '/users/:id
+PUT `/users/:id`
 
 #### Delete user
-DELETE /users/:id
+DELETE `/users/:id`
 
 ---
 
