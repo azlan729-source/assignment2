@@ -31,7 +31,7 @@ This project demonstrates:
 
 ## Project Structure
 ```
-assignment-2/
+assignment2/
 │
 ├── config/
 │ └── database.js
@@ -76,7 +76,7 @@ PORT=5000
 DB_HOST=localhost
 DB_USER=postgres
 DB_PASSWORD=your_password
-DB_NAME=assignment2
+DB_NAME=taskmaster
 DB_DIALECT=postgres
 ```
 
@@ -108,6 +108,12 @@ GET `/users`
 
 #### Get user by id
 GET `/users/:id`
+
+#### Update user
+PUT '/users/:id
+
+#### Delete user
+DELETE /users/:id
 
 ---
 
